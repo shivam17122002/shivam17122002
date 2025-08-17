@@ -11,45 +11,54 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- When I learn something new and it interests me, I go deep and dive in!
-- Driven by curiosity and a passion for building intelligent solutions.
-- Always eager to explore the intersection of Electronics and Computer Science.
-
----
-
-## 🛠️ Skills
-
-- **Programming:** C++ (DSA), Python
-- **Machine Learning:** ML algorithms, Data Analysis
-- **Web Development:** HTML, CSS, JavaScript, MERN stack (learning)
-- **Database:** SQL
-- **Core Electronics:** IoT, Digital Electronics, Embedded Systems, Signal & System, Computer Networks
+- 🔥 Curious learner – when something excites me, I dive deep into it.  
+- 💡 Passionate about **Machine Learning**, **DSA**, and **Full-Stack Development**.  
+- ⚡ Exploring the fusion of **Electronics + Computer Science** to build impactful solutions.  
 
 ---
 
-## 🌟 Notable Projects
+## 🛠️ Skills  
 
-- **Assign Credit Score:** Smart system to assign credit scores using ML techniques.
-- **Movie Recommender System:** Built a recommendation engine for movies using Python and various ML algorithms.
-
----
-
-## 📚 Currently Learning
-
-- Advanced MERN stack and modern web development
-- Deep dives into AI/ML applications
-- Exploring innovative IoT solutions
+### 🔹 Languages, Frameworks & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,react,nodejs,express,mongodb,django,flask,vue,php" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,mysql,postgres,npm" />
+</p>
 
 ---
 
-## 🧑‍💻 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/shivmpandey02)
-- [LeetCode](https://leetcode.com/shivam17122002/)
-- [TakeUForward](https://takeuforward.org/profile/shivam7838652433)
+## 📊 Language Usage  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam17122002&layout=compact&theme=radical" />
+</p>
 
 ---
 
-> “When I am learning something new and interesting, I go deep and dive in.”
+## 🌟 Notable Projects  
+
+- 🏦 **Assign Credit Score** – ML-based system for automated credit scoring.  
+- 🎬 **Movie Recommender System** – Personalized recommendation engine built with Python & ML.  
+
+---
+
+## 📚 Currently Learning  
+
+- ⚛️ Advanced **MERN stack** & modern web development  
+- 🤖 AI/ML applications in real-world scenarios  
+- 📡 Innovative IoT solutions  
+
+---
+
+## 🤝 Let’s Connect!  
+
+- [LinkedIn](https://www.linkedin.com/in/shivmpandey02)  
+- [LeetCode](https://leetcode.com/shivam17122002/)  
+- [TakeUForward](https://takeuforward.org/profile/shivam7838652433)  
+
+---
+
+> “When I am learning something new and interesting, I go deep and dive in.”  
+
+---
