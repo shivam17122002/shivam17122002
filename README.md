@@ -21,18 +21,29 @@
 
 ## 🛠️ Skills  
 
-### 🔹 Languages, Frameworks & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,react,nodejs,express,mongodb,django,flask,vue,php" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,mysql,postgres,npm" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,react,git,github,vscode" />
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 ## 📊 Language Usage  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam17122002&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 💼 Internship Experience  
+
+- 🚓 **AICTE Virtual Internship – Surveillance Vehicle Project**  
+  - Worked on **ESP32-based microcontroller integration** for surveillance applications.  
+  - Developed and tested **IoT modules** to enhance vehicle monitoring.  
+  - Debugged hardware & software issues ensuring smooth communication between sensors and controllers.  
+  - Gained hands-on experience in **embedded systems, IoT, and real-time problem solving**.  
 
 ---
 
@@ -45,9 +56,9 @@
 
 ## 📚 Currently Learning  
 
-- ⚛️ Advanced **MERN stack** & modern web development  
-- 🤖 AI/ML applications in real-world scenarios  
-- 📡 Innovative IoT solutions  
+- ⚛️ Advanced **MERN stack**  
+- 🤖 Deeper dives into **AI/ML**  
+- 📡 Exploring innovative **IoT applications**  
 
 ---
 
@@ -55,10 +66,10 @@
 
 - [LinkedIn](https://www.linkedin.com/in/shivmpandey02)  
 - [LeetCode](https://leetcode.com/shivam17122002/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/shivmpa7kjw/)  
+- [Coding Ninjas (Code360)](https://www.naukri.com/code360/profile/shivmpandey)  
 - [TakeUForward](https://takeuforward.org/profile/shivam7838652433)  
 
 ---
 
-> “When I am learning something new and interesting, I go deep and dive in.”  
-
----
+> “When I am learning something new and interesting, I go deep and dive in.”
